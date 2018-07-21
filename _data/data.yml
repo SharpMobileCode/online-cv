@@ -37,7 +37,13 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'A vision-driven software engineering consultant with 15+ years of experience designing
+and implementing software solutions for leading organizations. Growth-focused thought
+leadership with expertise spanning general software development, mobile app
+development, customer relationship building, and employee mentorship / training.
+Designed and re-wrote a flagship consumer Android app from scratch that decreased app
+size by 40%, reduced daily crash count by 96%, and increased store app rating from 3.5 to
+4.4.'
 
 
 studies: 
