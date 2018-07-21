@@ -66,12 +66,12 @@ experiences:
         - role: Mobile Developer
           time: July 2016 - Present
           company: Baylor Scott & White Health, Dallas, TX
-          details: Team lead for the Android development team bridging communication between 5 on-site developers and 3 off-shore developers.
+          details: "Team lead for the Android development team bridging communication between 5 on-site developers and 3 off-shore developers.
           Establish code review procedures, designed and built continuous automated builds, designed high level architecture for MyBSWHealth 4.0.
           Develop and implement team coding standards • and processes.
           Reduced legacy MyBSWHealth 3.0 *.apk size from over 40MB to 24MB.
           Improved legacy MyBSWHealth 3.0 crash count from approximately 300 crashes a day to less than 10 crashes a day.
-          Increased Google Play app rating from 3.5 to 4.4 as team lead and main architect for the MyBSWHealth 4.0 re-write.
+          Increased Google Play app rating from 3.5 to 4.4 as team lead and main architect for the MyBSWHealth 4.0 re-write."
 
         - role: Software Engineering Consultant
           time: January 2011 - July 2017
