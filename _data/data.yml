@@ -59,7 +59,7 @@ studies:
 
 
 experiences:
-    title: Experiences
+    title: Work Experience
     
     
     experiences:
@@ -74,10 +74,11 @@ experiences:
           * Improved legacy MyBSWHealth 3.0 crash count from approximately 300 crashes a day to less than 10 crashes a day.
           * Increased Google Play app rating from 3.5 to 4.4 as team lead and main architect for the MyBSWHealth 4.0 re-write.
 
-        - role: Senior Software Engineer
-          time: 2014 - 2015
-          company: Google, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Software Engineering Consultant
+          time: January 2011 - July 2017
+          company: Quisitive (Formerly RBA Consulting Southwest), Irving, TX
+          details: 
+          * Demonstrated expertise in Microsoft .NET technologies and mobile development using the Xamarin platform.
         
         - role: UI Developer
           time: 2012 - 2014
