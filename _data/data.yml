@@ -79,12 +79,27 @@ experiences:
         - role: Software Engineering Consultant
           time: January 2011 - July 2017
           company: Quisitive (Formerly RBA Consulting Southwest), Irving, TX
-          details: Demonstrated expertise in Microsoft .NET technologies and mobile development using the Xamarin platform.
+          details: "
+          <ul>
+          <li>Demonstrated expertise in Microsoft .NET technologies and mobile development using the Xamarin platform.</li>
+          <li>Re-wrote and deployed the iOS and Android apps for Cinemark Theatres USA.</li>
+          <li>Established baseline architecture of the Android app for Blue Cross Blue Shield of Louisiana.</li>
+          <li>Built trusting relationships with clients through clear communication and delivering solutions to meet needs.</li>
+          <li>Communicated effectively with managers and business partners on the strategy, priorities, deliverables, and timelines.</li>
+          </ul>"
         
-        - role: UI Developer
-          time: 2012 - 2014
-          company: Amazon, London
-          details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+        - role: Lead Software Engineer
+          time: September 2003 - January 2011
+          company: DRS Technologies, Dallas, TX
+          details: "
+          <ul>
+          <li>Mentored, motivated, and trained 5 software developers.</li>
+          <li>Created maintained efficient schedules for projects.</li>
+          <li>Streamlined processes to improve efficiency and ensure daily goals were met.</li>
+          <li>Designed and implemented engineering test software for cooled and uncooled infrared focal plane arrays, uncooled modules, and a variety of test equipment.</li>
+          <li>Demonstrated expertise in technologies including the Microsoft .NET Framework (1.1, 2.0, & 3.5) using C# and/or VB.NET, Visual Basic 6, C, and Managed C++.</li>
+          <li>Migrated numerous engineering software components from Visual Basic 6 to C#.</li>
+          </ul>"
 
 
 projects:
