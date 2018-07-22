@@ -141,7 +141,7 @@ projects:
         <li>Designed and implemented common code sharing techniques (Model-View-ViewModel, Dependency Injection).</li>
         <li>Created automated app builds using Jenkins, and set the baseline for automated UI Tests using Xamarin.UITest and Xamarin Test Cloud.</li>
         <li>Incorporated the following SDKs: MvvmCross, Google Analytics, various Xamarin Plugins (Connectivity, Permissions, etc).</li>
-        <li>Improved UI responsiveness and nominated for a Xammy Award for Best Consumer App at Xamarin Evolve 2014 through this re-write. <a href=https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin>Nomination video</a></li>
+        <li>Improved UI responsiveness and nominated for a Xammy Award for Best Consumer App at Xamarin Evolve 2014 through this re-write. <br><a href=https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin>https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin</a></li>
         </ul>"
       - project:
         title: Texas3006 for Android
