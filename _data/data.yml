@@ -29,8 +29,9 @@ sidebar:
         - interest:
           item: Mountain Biking
           link:
-
-        
+        - interest:
+          item: Road Cycling
+          link:       
 
 
 
@@ -49,7 +50,7 @@ size by 40%, reduced daily crash count by 96%, and increased store app rating fr
 studies: 
     - education:
       degree: BS in Computer Science
-      university: Southern Methodist University
+      university: Southern Methodist University, Dallas, TX
       time: 1998 - 2002
       details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
       elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
