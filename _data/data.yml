@@ -223,16 +223,17 @@ skills:
         - skill:
           name: Visual Studio for Mac
           level: 100%
-        -  skill:
+        - skill:
           name: Android Studio
           level: 100%
-        -  skill:
+        - skill:
           name: Git
           level: 60%
-        -  skill:
+        - skill:
           name: Visual Studio Team Services
           level: 75%
 
 
-# footer: 
-#     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+
+footer: 
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
