@@ -183,47 +183,56 @@ projects:
 
 
 
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+# publications:
+#     title: Publications
+#     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#     publications:
+#       - paper:
+#         title: The Art of Computer Programming
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+#       - paper:
+#         title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - paper:
+#         title: A syntax directed compiler for Algol 60
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
+          name: C# / .NET
+          level: 100%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Kotlin
+          level: 100%
         - skill:
-          name: Angular
-          level: 98%
+          name: Xamarin.iOS
+          level: 100%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
+          name: Xamarin.Android
+          level: 100%
         - skill:
-          name: Ruby on Rails
-          level: 85%
+          name: Visual Studio 2017
+          level: 100%
         - skill:
-          name: Sketch & Photoshop
+          name: Visual Studio for Mac
+          level: 100%
+          skill:
+          name: Android Studio
+          level: 100%
+          skill:
+          name: Git
           level: 60%
+          skill:
+          name: Visual Studio Team Services
+          level: 75%
 
 
-footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+# footer: 
+#     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
