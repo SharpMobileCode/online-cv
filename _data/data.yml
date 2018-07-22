@@ -10,7 +10,7 @@ sidebar:
     
     # Profile information
     name: Ruben Macias
-    tagline: Mobile Developer
+    tagline: Software Engineering Consultant
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
@@ -141,8 +141,7 @@ projects:
         <li>Designed and implemented common code sharing techniques (Model-View-ViewModel, Dependency Injection).</li>
         <li>Created automated app builds using Jenkins, and set the baseline for automated UI Tests using Xamarin.UITest and Xamarin Test Cloud.</li>
         <li>Incorporated the following SDKs: MvvmCross, Google Analytics, various Xamarin Plugins (Connectivity, Permissions, etc).</li>
-        <li>Improved UI responsiveness and nominated for a Xammy Award for Best Consumer App at Xamarin Evolve 2014 through this re-write.<br>
-          <a href="https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin">https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin</a></li>
+        <li>Improved UI responsiveness and nominated for a Xammy Award for Best Consumer App at Xamarin Evolve 2014 through this re-write. <br><a href="https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin">https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin</a></li>
         </ul>"
       - project:
         title: Tempo
