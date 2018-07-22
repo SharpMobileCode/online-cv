@@ -144,17 +144,40 @@ projects:
         <li>Improved UI responsiveness and nominated for a Xammy Award for Best Consumer App at Xamarin Evolve 2014 through this re-write. <br>https://customers.microsoft.com/en-in/story/cinemark-media-and-telecommunications-xamarin</li>
         </ul>"
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: Texas3006 for Android
+        link: "https://play.google.com/store/apps/details?id=com.tx3006.texas3006&hl=en_US"
+        tagline: "
+        <ul>
+        <li>Developed a companion app for Texas3006.com which sends Texans who are licensed to carry notifications of businesses where they are not legally allowed to carry.</li>
+        <li>Designed features including: proximity alerts using geofencing, users submitting new entries, adding user comments to entries, and viewing submitted entries.</li>
+        <li>Demonstrated expertise in Xamarin.Android and the MvvmCross framework.</li>
+        <li>Designed and implemented automated builds using Microsoft App Center as sole Android developer.</li>
+        <li>Incorporated the following SDKs: MvvmCross, Google Analytics, Microsoft App Center Crash Reporting, Google Maps, Google Places, SQLite.Net, Google Geofencing.</li>
+        <li>Achieved average Google Play rating 4.6 with over • 12,000 installs.</li>
+        </ul>
+        "
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: DORBA Mobile
+        link: "https://play.google.com/store/apps/details?id=com.dorbamobile"
+        tagline: "
+        <ul>
+        <li>Built an Android application for the Dallas Off-Road Bicycle Association (DORBA) which allows mountain biking enthusiasts in the Dallas/Fort Worth area to view mountain bike trial conditions, trail weather conditions, view upcoming DORBA events, and join DORBA.</li>
+        <li>Employed expert knowledge of Kotlin, and Android Studio.</li>
+        <li>Designed views, view models, and repositories which consumed RESTful web services hosted on www.dorba.org to make viewing of local mountain bike trail conditions mobile friendly.</li>
+        <li>Incorporated the following SDKs: Android Architecture Components (ViewModel, LiveData, Room), Retrofit 2, Kotlin Coroutines, Google Maps, Firebase Crashlytics, Firebase Analytics, DarkSky Weather API</li>
+        </ul>
+        "
       - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        title: Blue Cross Blue Shield of Louisiana
+        link: "https://play.google.com/store/apps/details?id=com.bcbsla.mobile.droid"
+        tagline: "
+        <ul>
+        <li>Developed an Android application which allowed users to view health plan information, view claim details, and search for doctors and urgent care.</li>
+        <li>Demonstrated expertise in Xamarin.Android.</li>
+        <li>Designed and implemented baseline architecture and code sharing techniques with the iOS developers.</li>
+        <li>Collaborated with the BCBSLA team for an in-house take-over.</li>
+        </ul>
+        "
 
 
 
