@@ -131,9 +131,28 @@ projects:
         <li>Increased Google Play Store rating rose from an average of 3.5 to 4.4 through the program rewriting.</li>
         </ul>"
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: Cinemark Theatres
+        link: "https://itunes.apple.com/us/app/cinemark-theatres/id435965836?mt=8"
+        tagline: "
+        <ul>
+        <li>Designed the official app for Cinemark Theatres USA that allows
+customers to search for Cinemark movie theaters, view movie show
+times, purchase tickets, and earn rewards using CineMode.</li>
+        <li>Applied expertise in Xamarin.iOS, Xamarin.Android, and MvvmCross
+framework.</li>
+        <li>Served as main iOS developer and contributing • Android developer.</li>
+        <li>Designed and implemented common code sharing techniques (Model-
+View-ViewModel, Dependency Injection).</li>
+        <li>Created automated app builds using Jenkins, and set the baseline for
+automated UI Tests using Xamarin.UITest and Xamarin Test Cloud.</li>
+        <li>Incorporated the following SDKs: MvvmCross, Google Analytics, various
+Xamarin Plugins (Connectivity, Permissions, etc).</li>
+        <li>Improved UI responsiveness and nominated for a Xammy Award for Best
+Consumer App at Xamarin Evolve 2014 through this re-write.<br>
+https://customers.microsoft.com/en-in/story/cinemark-media-andtelecommunications-
+xamarin</li>
+        </ul>
+        "
       - project:
         title: Tempo
         link: "#"
