@@ -123,12 +123,12 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.baylorscottandwhite.healthsource&hl=en_US"
         tagline: "
         <ul>
-        <li>Developed flagship consumer app for patients and health plan members of Baylor Scott & White Health with features including: <br>
+        <li>Developed flagship consumer app for patients and health plan members of Baylor Scott & White Health with features including: 
         Scheduling doctor appointments, viewing health medical records, viewing/paying medical bills, viewing health plan details and claims, and ordering/refilling drug prescriptions through BSWHealth retail pharmacies.</li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Built a native Android app using Kotlin, Android Studio, React Native, TypeScript, and Microsoft Code Push for real time code deployments.</li>
+        <li>Served as Android Team Lead and designed high level architecture, approved code reviews, developed branching/merging strategy, built automated app builds, and established team coding standards and best practices.</li>
+        <li>Demonstrated expertise in SDKs: MyChart EmbedKit, Dagger 2, Retrofit 2, Firebase Crashlytics, Google Analytics.</li>
+        <li>Increased Google Play Store rating rose from an average of 3.5 to 4.4 through the program rewriting.</li>
         </ul>"
       - project:
         title: DevStudio
