@@ -223,13 +223,13 @@ skills:
         - skill:
           name: Visual Studio for Mac
           level: 100%
-          skill:
+        -  skill:
           name: Android Studio
           level: 100%
-          skill:
+        -  skill:
           name: Git
           level: 60%
-          skill:
+        -  skill:
           name: Visual Studio Team Services
           level: 75%
 
