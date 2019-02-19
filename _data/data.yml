@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: Ruben Macias Resume
+    title: Ruben Macias CV
     url: 'https://sharpmobilecode.github.io/online-cv/'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
@@ -44,7 +44,7 @@ leadership with expertise spanning general software development, mobile app
 development, customer relationship building, and employee mentorship / training.
 Designed and re-wrote a flagship consumer Android app from scratch that decreased app
 size by 40%, reduced daily crash count by 96%, and increased store app rating from 3.5 to
-4.4.'
+4.6.'
 
 
 studies: 
@@ -64,8 +64,20 @@ experiences:
     
     
     experiences:
+        - role: Consultant
+          time: January 2019 - Present
+          company: Quisitive, Irving, TX
+          details: "
+          <ul>
+          <li>Software engineering consultant specializing in mobile development and general C# development.</li>
+          <li>Shown expertise in native Android development using Kotlin.</li>
+          <li>Shown expertise in applying DevOps principles to mobile development.</li>
+          <li>Shown expertise in cross platform mobile development using Xamarin.iOS/Xamarin.Android and Xamarin.Forms.</li>
+          <li>Converting a flagship consumer mobile application from Xamarin.iOS/Xamarin.Android to Xamarin.Forms</li>
+          </ul>"
+
         - role: Mobile Developer
-          time: July 2016 - Present
+          time: July 2016 - January 2019
           company: Baylor Scott & White Health, Dallas, TX
           details: "
           <ul>
@@ -74,7 +86,7 @@ experiences:
           <li>Develop and implement team coding standards • and processes.</li>
           <li>Reduced legacy MyBSWHealth 3.0 *.apk size from over 40MB to 24MB.</li>
           <li>Improved legacy MyBSWHealth 3.0 crash count from approximately 300 crashes a day to less than 10 crashes a day.</li>
-          <li>Increased Google Play app rating from 3.5 to 4.4 as team lead and main architect for the MyBSWHealth 4.0 re-write.</li>
+          <li>Increased Google Play app rating from 3.5 to 4.6 as team lead and main architect for the MyBSWHealth 4.0 re-write.</li>
           </ul>"
 
         - role: Software Engineering Consultant
@@ -128,7 +140,7 @@ projects:
         <li>Built a native Android app using Kotlin, Android Studio, React Native, TypeScript, and Microsoft Code Push for real time code deployments.</li>
         <li>Served as Android Team Lead and designed high level architecture, approved code reviews, developed branching/merging strategy, built automated app builds, and established team coding standards and best practices.</li>
         <li>Demonstrated expertise in SDKs: MyChart EmbedKit, Dagger 2, Retrofit 2, Firebase Crashlytics, Google Analytics.</li>
-        <li>Increased Google Play Store rating rose from an average of 3.5 to 4.4 through the program rewriting.</li>
+        <li>Increased Google Play Store rating rose from an average of 3.5 to 4.6 through the program rewriting.</li>
         </ul>"
       - project:
         title: Cinemark Theatres
@@ -224,14 +236,17 @@ skills:
           name: Visual Studio for Mac
           level: 100%
         - skill:
+          name: Visual Code
+          level: 90%
+        - skill:
           name: Android Studio
           level: 100%
         - skill:
           name: Git
           level: 60%
         - skill:
-          name: Visual Studio Team Services
-          level: 75%
+          name: Azure DevOps
+          level: 85%
 
 
 
