@@ -166,7 +166,7 @@ p {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: darken($theme-color, 15%);
+        color: #212121; //darken($theme-color, 15%);
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
@@ -232,10 +232,10 @@ p {
             margin-bottom: 15px;
         }
         a:link {
-            color: #0D47A1;
+            color: #2962FF;
         }
         a:visited {
-            color: #0D47A1;
+            color: #2962FF;
         }
     }
 

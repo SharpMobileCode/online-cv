@@ -41,6 +41,9 @@ There are 6 color schemes available:
 |---------|---------|---------|
 | <img src="/assets/images/berry.jpg" width="300"/> | <img src="/assets/images/orange.jpg" width="300"/> | <img src="/assets/images/ceramic.jpg" width="300"/> |
 
+## Execute
+bundle exec jekyll serve
+
 ## Credits
 
 Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
