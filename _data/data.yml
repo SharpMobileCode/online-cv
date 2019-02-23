@@ -4,7 +4,7 @@
 
 sidebar:
     # Site Settings
-    title: Ruben Macias CV
+    title: Ruben Macias
     url: 'https://www.ruben.dev'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
