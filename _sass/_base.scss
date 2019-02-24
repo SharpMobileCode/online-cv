@@ -266,6 +266,13 @@ p {
         margin-bottom: 15px;
         overflow: hidden;
     }
+    .item2 {
+        clear: both;
+        display: inline-block;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-right: 10px;
+    }
     .level-title {
         font-size: 14px;
         margin-top: 0;
