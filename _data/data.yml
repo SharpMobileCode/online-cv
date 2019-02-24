@@ -236,7 +236,7 @@ skills:
           name: Visual Studio for Mac
           level: 100%
         - skill:
-          name: Visual Code
+          name: Visual Studio Code
           level: 90%
         - skill:
           name: Android Studio
