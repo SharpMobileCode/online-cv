@@ -249,6 +249,25 @@ skills:
           level: 85%
 
 
+awards:
+  title: Awards
+  awards:
+    - award:
+      name: RBA Star of Excellence
+      year: 2014
+      description: Awarded the RBA Start of Excellence for outstanding leadership and dedication to customer service. 1 of 5 awarded out of 300+ employees.
+    - award:
+      name: RBA President's Club
+      year: 2014
+      description: Inducted into the 2014 RBA President's Club for oustanding leadership, technical expertise, and customer project delivery. 1 of 50 inducted out of 300+ employees.
+    - award:
+      name: RBA Award for Best In Show
+      year: 2014
+      description: 2nd quarter award for "Best In Show". Delivered the Cinemark Theatres app that was nominated for Xammy Award for Best Consumer App at Xamarin Evolve 2014.
+    - award:
+      name: RBA Award for Fan Favorite
+      year: 2014
+      description: 4th quarter award for "Fan Favorite" after receiving numerous commendations from clients.
 
 # footer: 
 #     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
