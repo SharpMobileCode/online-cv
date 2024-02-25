@@ -33,9 +33,6 @@ sidebar:
           item: Road Cycling
           link:       
 
-
-
-
 career-profile: 
     title: Career Profile
     text: 'A vision-driven software engineering consultant with 15+ years of experience designing
@@ -46,6 +43,33 @@ Designed and re-wrote a flagship consumer Android app from scratch that decrease
 size by 40%, reduced daily crash count by 96%, and increased store app rating from 3.5 to
 4.6.'
 
+skills:
+    title: Core Competencies
+    skills:
+        - skill:
+          name: Native mobile development
+          level: 100%
+        - skill:
+          name: Cross-platform mobile development
+          level: 100%
+        - skill:
+          name: Web API development
+          level: 100%
+        - skill:
+          name: App store management
+          level: 100%
+        - skill:
+          name: Continuous integration / continuous delivery (CI/CD)
+          level: 100%
+        - skill:
+          name: Cloud management
+          level: 100%
+        - skill:
+          name: DevOps
+          level: 100%
+        - skill:
+          name: Technical lead
+          level: 90%
 
 studies: 
     - education:
@@ -218,35 +242,65 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: C# / .NET
+          name: C# / .NET Core
           level: 100%
         - skill:
           name: Kotlin
           level: 100%
         - skill:
-          name: Xamarin.iOS
+          name: TypeScript
           level: 100%
         - skill:
-          name: Xamarin.Android
+          name: .NET Web API
           level: 100%
         - skill:
-          name: Visual Studio 2017
+          name: React Native
           level: 100%
         - skill:
-          name: Visual Studio for Mac
+          name: Expo
+          level: 100%
+        - skill:
+          name: Xamarin.iOS / Xamarin.Android / Xamarin.Forms
+          level: 100%
+        - skill:
+          name: .NET MAUI
+          level: 100%
+        - skill:
+          name: Native Android
+          level: 100%
+        - skill:
+          name: Azure App Services
+          level: 100%
+        - skill:
+          name: Azure App Configuration
+          level: 100%
+        - skill:
+          name: Azure Functions
+          level: 100%
+        - skill:
+          name: Visual Studio 2022
           level: 100%
         - skill:
           name: Visual Studio Code
-          level: 90%
-        - skill:
-          name: Android Studio
           level: 100%
         - skill:
-          name: Git
-          level: 60%
-        - skill:
           name: Azure DevOps
-          level: 85%
+          level: 100%
+        - skill:
+          name: Visual Studio App Center
+          level: 100%
+        - skill:
+          name: App Store Connect
+          level: 100%
+        - skill:
+          name: Google Play
+          level: 100%
+        - skill:
+          name: Firebase Crashlytics
+          level: 100%
+        - skill:
+          name: Entity Framework
+          level: 100%
 
 
 awards:
