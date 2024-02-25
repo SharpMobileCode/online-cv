@@ -43,31 +43,31 @@ Designed and re-wrote a flagship consumer Android app from scratch that decrease
 size by 40%, reduced daily crash count by 96%, and increased store app rating from 3.5 to
 4.6.'
 
-skills:
+competencies:
     title: Core Competencies
-    skills:
-        - skill:
+    competencies:
+        - competency:
           name: Native mobile development
           level: 100%
-        - skill:
+        - competency:
           name: Cross-platform mobile development
           level: 100%
-        - skill:
+        - competency:
           name: Web API development
           level: 100%
-        - skill:
+        - competency:
           name: App store management
           level: 100%
-        - skill:
+        - competency:
           name: Continuous integration / continuous delivery (CI/CD)
           level: 100%
-        - skill:
+        - competency:
           name: Cloud management
           level: 100%
-        - skill:
+        - competency:
           name: DevOps
           level: 100%
-        - skill:
+        - competency:
           name: Technical lead
           level: 90%
 

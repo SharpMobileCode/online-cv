@@ -1,0 +1,15 @@
+{% if site.data.data.competencies %}
+<section class="skills-section section">
+
+  <h2 class="section-title"><i class="fa fa-rocket"></i>{{site.data.data.competencies.title}}</h2>
+
+  <div class="skillset">
+
+    {% for competency in site.data.data.competencies.competencies %}
+      <div class="item2">{{competency.name}}</div>
+    {% endfor %}
+
+  </div>
+
+</section>
+{% endif %}
