@@ -239,7 +239,7 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
     skills:
         - skill:
           name: C# / .NET Core
