@@ -27,8 +27,8 @@
 
 /* Badge image */
 .cert-badge img {
-  width: 140px;            /* desired width */
-  height: 140px;           /* desired height */
+  width: 160px;            /* desired width */
+  height: 160px;           /* desired height */
   object-fit: contain;     /* keeps aspect ratio */
   object-position: center; /* centers the badge */
   display: block;
@@ -48,7 +48,7 @@
 /* Caption text */
 .cert-caption {
   margin-top: 0.5rem;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   line-height: 1.3;
   color: #444;
 }
