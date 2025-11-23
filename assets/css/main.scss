@@ -27,11 +27,15 @@
 
 /* Badge image */
 .cert-badge img {
-  max-width: 100%;
-  height: auto;
+  width: 140px;            /* desired width */
+  height: 140px;           /* desired height */
+  object-fit: contain;     /* keeps aspect ratio */
+  object-position: center; /* centers the badge */
   display: block;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+  background-color: #fff;  /* optional: gives clean edges */
+  padding: 8px;            /* optional: spacing inside box */
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
