@@ -283,6 +283,12 @@ skills:
           name: Azure DevOps
           level: 100%
         - skill:
+          name: GitHub
+          level: 100%
+        - skill:
+          name: GitHub Copilot
+          level: 100%
+        - skill:
           name: Visual Studio App Center
           level: 100%
         - skill:
